@@ -23,4 +23,3 @@
 ## Gebruiksrichtlijnen
 * _Fotomuseum Antwerpen._
 * _Hoe verwijs je best naar de inhoud van je data? (cf persistente URI's)_
-* _andere richtlijnen voor gebruik?_

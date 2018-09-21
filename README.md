@@ -7,15 +7,18 @@
 
 ## _[Cartes de visite FOMU]_
 * _Dataprofiel_
-  *Fotograaf/Fotostudio opname
-  *Fotograaf/Fotostudio afdruk
-  *Rechtenstatus
-  *Herkomst
-  *Plaats opname
-  *Plaats afdruk
-  *Beschrijving
-  *Datum Opname
-  *Datum Afdruk
+ *Inventarisnummer
+ *Afmetingen
+ *Fotograaf/Fotostudio opname
+ *Fotograaf/Fotostudio afdruk
+ *Rechtenstatus
+ *Herkomst
+ *Plaats opname
+ *Plaats afdruk
+ *Beschrijving
+ *Datum Opname
+ *Datum Afdruk
+ *Materiaal
 * _De data zijn beschikbaar in .CSV formaat._
 
 ## Licenties

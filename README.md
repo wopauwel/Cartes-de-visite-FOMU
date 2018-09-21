@@ -1,30 +1,32 @@
-# _[Fotomuseum Antwerpen]_
-* _Het verrijken van metadata van fotostudio's die zich toelegden op visitekaarten en de weergegeven personen of plaatsen._
-* _Periode van activiteit van de fotostudio's, plaats van activiteit, weergegeven personen en plaatsen._
+# Fotomuseum Antwerpen
+Het FOMU is het expertise- en ontmoetingscentrum in Vlaanderen voor actuele en historische fotografie in al haar vormen en facetten.
+Het FOMU verzamelt data van fotostudio's die zich toelegden op cartes de visite en de weergegeven personen of plaatsen.
+Hieronder de periode van activiteit van de fotostudio's, plaats van activiteit, weergegeven personen en plaatsen.
 
-* _Genealogisch en historische onderzoekers kunnen aan de slag met de portretten en stadszichten alsook de reeds gevonden metadata hierbij._
-* _Zowel metadata als beelden worden vrijgegeven._
+Die data is met name interessant voor genealogisch en historisch onderzoek.
+FOMU  maakt zowel de data als de bijhorende beelden vrij voor hergebruik.
 
-## _[Cartes de visite FOMU]_
-* _Dataprofiel_
- *Inventarisnummer
- *Afmetingen
- *Fotograaf/Fotostudio opname
- *Fotograaf/Fotostudio afdruk
- *Rechtenstatus
- *Herkomst
- *Plaats opname
- *Plaats afdruk
- *Beschrijving
- *Datum Opname
- *Datum Afdruk
- *Materiaal
-* _De data zijn beschikbaar in .CSV formaat._
+## Cartes de visite FOMU
+Deze dataset bevat de volgende gegevens |
+ ---------------------------------------|
+ Inventarisnummer |
+ Afmetingen |
+ Fotograaf/Fotostudio opname |
+ Fotograaf/Fotostudio afdruk |
+ Rechtenstatus |
+ Herkomst |
+ Plaats opname |
+ Plaats afdruk |
+ Beschrijving |
+ Datum Opname |
+ Datum Afdruk |
+ Materiaal |
+De data zijn beschikbaar in .CSV formaat.
 
 ## Licenties
-* _De metadata bevinden zich in het publiek domein en zijn beschikbaar onder CC0-licentie voor gratis hergebruik._
-* _Alle beelden bevinden zich in het publiek domein en zijn beschikbaar voor gratis hergebruik._
+De metadata bevinden zich in het publiek domein en zijn beschikbaar onder CC0-licentie voor gratis hergebruik.
+Alle beelden bevinden zich in het publiek domein en zijn beschikbaar voor gratis hergebruik.
 
 ## Gebruiksrichtlijnen
-* _Fotomuseum Antwerpen._
-* _Hoe verwijs je best naar de inhoud van je data? (cf persistente URI's)_
+Fotomuseum Antwerpen
+Bij hergebruik dient het Inventarisnummer opgenomen te worden.

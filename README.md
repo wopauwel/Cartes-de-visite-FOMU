@@ -10,6 +10,8 @@ FOMU  maakt zowel de data als de bijhorende beelden vrij voor hergebruik.
 Deze dataset bevat de volgende gegevens |
  ---------------------------------------|
  Inventarisnummer |
+ Titel |
+ Objectnaam |
  Afmetingen |
  Fotograaf/Fotostudio opname |
  Fotograaf/Fotostudio afdruk |
@@ -29,4 +31,4 @@ De metadata bevinden zich in het publiek domein en zijn beschikbaar onder CC0-li
 Alle beelden bevinden zich in het publiek domein en zijn beschikbaar voor gratis hergebruik.
 
 ## Gebruiksrichtlijnen
-Ieder is vrij om de data en beelden te hergebruiken, maar vermelding van het Fotomuseum Antwerpen met Inventarisnummer worden geappreciëerd. 
+Ieder is vrij om de data en beelden te hergebruiken, maar vermelding van het Fotomuseum Antwerpen met Inventarisnummer van de gebruikte data worden geappreciëerd. 

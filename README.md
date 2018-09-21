@@ -7,10 +7,12 @@
 
 ## _[Cartes de visite FOMU]_
 * _Dataprofiel_
-  *Fotograaf/Fotostudio
+  *Fotograaf/Fotostudio opname
+  *Fotograaf/Fotostudio afdruk
   *Rechtenstatus
   *Herkomst
-  *Plaatsnamen
+  *Plaats opname
+  *Plaats afdruk
   *Beschrijving
   *Datum Opname
   *Datum Afdruk

@@ -29,5 +29,4 @@ De metadata bevinden zich in het publiek domein en zijn beschikbaar onder CC0-li
 Alle beelden bevinden zich in het publiek domein en zijn beschikbaar voor gratis hergebruik.
 
 ## Gebruiksrichtlijnen
-Fotomuseum Antwerpen
-Bij hergebruik dient het Inventarisnummer opgenomen te worden.
+Ieder is vrij om de data en beelden te hergebruiken, maar vermelding van het Fotomuseum Antwerpen met Inventarisnummer worden geappreciëerd. 
